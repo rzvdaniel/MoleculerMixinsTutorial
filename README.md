@@ -1,6 +1,6 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
 
-# simple-project
+# Simple tutorial about Moleculer's mixins mechanism.
 
 ## NPM scripts
 
